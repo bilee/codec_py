@@ -24,3 +24,27 @@ print spam()
 
 6 Whitespace means right space
 Properly indent code w 4 spaces before eggs on line 2 and another on line 4 before line 3
+
+7 A Matter of Interpretation
+The interpreter window runs code and checks for errors
+
+8 Single Line Comments
+# A comment is line of text that py doesn't run as code
+
+9 Multi-line comments
+#single line comment
+""" you can include a whole block
+    of text within triple quotes
+"""
+
+10 Math- operators, math operations
+addition = 72 + 23
+subtraction = 108 - 204
+multiplication = 108 * 0.5
+division = 108 / 9
+
+count_to = 100 + 23
+print count_to
+
+
+
