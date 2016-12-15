@@ -18,7 +18,7 @@ print my_int
 5 Whitespace- used to structure code
 def spam():
     eggs = 12
-return eggs
+    return eggs
 
 print spam()
 
