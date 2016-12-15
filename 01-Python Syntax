@@ -1,0 +1,13 @@
+1 Welcome
+
+print "Welcome to Python!"
+
+2 Variables- stores a piece of data and gives it a specific name
+# write code below
+my_variable = 10
+spam = 5
+
+3 Booleans (ie. light switch) values can only be True or False
+my_int = 7
+my_float = 1.23
+my_bool = True
