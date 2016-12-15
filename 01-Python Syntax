@@ -3,7 +3,6 @@
 print "Welcome to Python!"
 
 2 Variables- stores a piece of data and gives it a specific name
-# write code below
 my_variable = 10
 spam = 5
 
@@ -11,3 +10,17 @@ spam = 5
 my_int = 7
 my_float = 1.23
 my_bool = True
+
+4 You've Been Reassigned- reassign variables
+my_int = 3
+print my_int
+
+5 Whitespace- used to structure code
+def spam():
+    eggs = 12
+return eggs
+
+print spam()
+
+6 Whitespace means right space
+Properly indent code w 4 spaces before eggs on line 2 and another on line 4 before line 3
